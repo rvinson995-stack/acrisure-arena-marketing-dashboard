@@ -1,0 +1,554 @@
+CampaignID,CampaignName,CustomerID,Channel,SendDate,Opened,Clicked,Converted
+CMP-101,Firebirds Opening Night Promo,CUST-1001,Email,10/1/26,1,1,1
+CMP-102,Lakers home Opener Alert,CUST-1005,SMS,10/5/26,1,0,0
+CMP-103,Country Concert Flash Sale,CUST-1012,App Push,10/10/26,0,0,0
+CMP-1001,Firebirds Home Opener Promo,CUST-1008,SMS,10/14/26,0,0,0
+CMP-1002,Country Showcase Presale,CUST-1063,SMS,12/11/26,1,1,0
+CMP-1003,Firebirds Home Opener Promo,CUST-1006,Email,10/8/26,1,1,1
+CMP-1004,Firebirds Home Opener Promo,CUST-1073,App Push,11/23/26,0,0,0
+CMP-1005,Firebirds Home Opener Promo,CUST-1054,SMS,12/13/26,0,0,0
+CMP-1006,Firebirds Home Opener Promo,CUST-1014,App Push,1/31/27,0,0,0
+CMP-1007,Holiday Spectacular Discount,CUST-1027,Email,12/16/26,0,0,0
+CMP-1008,Concert Flash Sale,CUST-1079,Email,10/5/26,1,1,0
+CMP-1009,Country Showcase Presale,CUST-1012,SMS,11/4/26,0,0,0
+CMP-1010,Country Showcase Presale,CUST-1025,App Push,2/1/27,0,0,0
+CMP-1011,Latin Music VIP Access,CUST-1067,App Push,10/21/26,0,0,0
+CMP-1012,Latin Music VIP Access,CUST-1090,Email,1/10/27,1,1,0
+CMP-1013,Country Showcase Presale,CUST-1019,Email,1/13/27,0,0,0
+CMP-1014,Lakers Ticket Alert,CUST-1015,SMS,2/27/27,0,0,0
+CMP-1015,Rock Legends Tour Promo,CUST-1069,SMS,10/5/26,0,0,0
+CMP-1016,Country Showcase Presale,CUST-1019,SMS,2/15/27,1,1,1
+CMP-1017,Rock Legends Tour Promo,CUST-1018,Email,10/27/26,0,0,0
+CMP-1018,Latin Music VIP Access,CUST-1100,Email,10/8/26,1,0,0
+CMP-1019,Rock Legends Tour Promo,CUST-1018,Email,12/6/26,0,0,0
+CMP-1020,Concert Flash Sale,CUST-1025,SMS,1/2/27,0,0,0
+CMP-1021,Latin Music VIP Access,CUST-1020,App Push,12/28/26,0,0,0
+CMP-1022,Rock Legends Tour Promo,CUST-1001,Email,12/6/26,0,0,0
+CMP-1023,Lakers Ticket Alert,CUST-1071,App Push,11/19/26,0,0,0
+CMP-1024,Holiday Spectacular Discount,CUST-1092,Email,11/1/26,1,1,1
+CMP-1025,Holiday Spectacular Discount,CUST-1046,Email,12/28/26,0,0,0
+CMP-1026,Latin Music VIP Access,CUST-1016,SMS,1/6/27,1,0,0
+CMP-1027,Concert Flash Sale,CUST-1076,Email,12/20/26,0,0,0
+CMP-1028,Rock Legends Tour Promo,CUST-1017,SMS,1/24/27,0,0,0
+CMP-1029,Firebirds Home Opener Promo,CUST-1076,Email,12/2/26,0,0,0
+CMP-1030,Latin Music VIP Access,CUST-1020,SMS,1/16/27,1,0,0
+CMP-1031,Holiday Spectacular Discount,CUST-1064,App Push,1/15/27,1,0,0
+CMP-1032,Lakers Ticket Alert,CUST-1010,Email,2/4/27,0,0,0
+CMP-1033,Rock Legends Tour Promo,CUST-1030,Email,10/4/26,0,0,0
+CMP-1034,Concert Flash Sale,CUST-1078,App Push,10/23/26,0,0,0
+CMP-1035,Holiday Spectacular Discount,CUST-1063,Email,2/20/27,1,0,0
+CMP-1036,Holiday Spectacular Discount,CUST-1014,Email,12/3/26,0,0,0
+CMP-1037,Country Showcase Presale,CUST-1007,SMS,2/23/27,0,0,0
+CMP-1038,Latin Music VIP Access,CUST-1005,SMS,11/6/26,0,0,0
+CMP-1039,Firebirds Home Opener Promo,CUST-1095,SMS,11/19/26,0,0,0
+CMP-1040,Concert Flash Sale,CUST-1038,App Push,2/3/27,1,1,0
+CMP-1041,Rock Legends Tour Promo,CUST-1060,Email,2/14/27,0,0,0
+CMP-1042,Firebirds Home Opener Promo,CUST-1097,App Push,10/16/26,0,0,0
+CMP-1043,Latin Music VIP Access,CUST-1016,Email,2/27/27,1,0,0
+CMP-1044,Concert Flash Sale,CUST-1020,Email,2/27/27,1,0,0
+CMP-1045,Latin Music VIP Access,CUST-1007,Email,10/13/26,1,0,0
+CMP-1046,Holiday Spectacular Discount,CUST-1005,Email,10/19/26,1,0,0
+CMP-1047,Holiday Spectacular Discount,CUST-1083,Email,1/9/27,1,1,0
+CMP-1048,Firebirds Home Opener Promo,CUST-1055,App Push,10/28/26,0,0,0
+CMP-1049,Firebirds Home Opener Promo,CUST-1070,SMS,11/29/26,1,0,0
+CMP-1050,Concert Flash Sale,CUST-1064,SMS,1/19/27,1,0,0
+CMP-1051,Concert Flash Sale,CUST-1011,Email,1/6/27,0,0,0
+CMP-1052,Lakers Ticket Alert,CUST-1080,App Push,12/22/26,0,0,0
+CMP-1053,Rock Legends Tour Promo,CUST-1057,Email,2/23/27,1,0,0
+CMP-1054,Firebirds Home Opener Promo,CUST-1077,App Push,11/17/26,1,0,0
+CMP-1055,Firebirds Home Opener Promo,CUST-1086,App Push,11/17/26,0,0,0
+CMP-1056,Concert Flash Sale,CUST-1055,App Push,11/14/26,0,0,0
+CMP-1057,Rock Legends Tour Promo,CUST-1090,SMS,11/6/26,1,1,0
+CMP-1058,Latin Music VIP Access,CUST-1089,SMS,1/2/27,0,0,0
+CMP-1059,Latin Music VIP Access,CUST-1047,Email,11/18/26,0,0,0
+CMP-1060,Rock Legends Tour Promo,CUST-1073,Email,11/7/26,0,0,0
+CMP-1061,Latin Music VIP Access,CUST-1045,SMS,1/28/27,1,1,1
+CMP-1062,Lakers Ticket Alert,CUST-1044,SMS,10/20/26,1,1,0
+CMP-1063,Firebirds Home Opener Promo,CUST-1045,App Push,11/26/26,1,1,0
+CMP-1064,Holiday Spectacular Discount,CUST-1004,Email,11/10/26,0,0,0
+CMP-1065,Concert Flash Sale,CUST-1086,App Push,1/11/27,1,1,1
+CMP-1066,Lakers Ticket Alert,CUST-1072,SMS,2/1/27,1,0,0
+CMP-1067,Latin Music VIP Access,CUST-1031,Email,11/26/26,0,0,0
+CMP-1068,Concert Flash Sale,CUST-1001,SMS,11/4/26,1,0,0
+CMP-1069,Rock Legends Tour Promo,CUST-1086,App Push,12/20/26,0,0,0
+CMP-1070,Lakers Ticket Alert,CUST-1027,SMS,10/18/26,0,0,0
+CMP-1071,Latin Music VIP Access,CUST-1064,Email,11/9/26,0,0,0
+CMP-1072,Concert Flash Sale,CUST-1015,App Push,11/2/26,0,0,0
+CMP-1073,Country Showcase Presale,CUST-1039,App Push,2/3/27,0,0,0
+CMP-1074,Concert Flash Sale,CUST-1094,App Push,10/12/26,0,0,0
+CMP-1075,Latin Music VIP Access,CUST-1086,SMS,1/25/27,0,0,0
+CMP-1076,Holiday Spectacular Discount,CUST-1093,SMS,10/21/26,1,1,0
+CMP-1077,Country Showcase Presale,CUST-1059,SMS,2/9/27,0,0,0
+CMP-1078,Firebirds Home Opener Promo,CUST-1009,SMS,1/3/27,1,0,0
+CMP-1079,Latin Music VIP Access,CUST-1033,Email,12/16/26,0,0,0
+CMP-1080,Holiday Spectacular Discount,CUST-1010,SMS,12/13/26,1,0,0
+CMP-1081,Firebirds Home Opener Promo,CUST-1050,Email,11/14/26,0,0,0
+CMP-1082,Firebirds Home Opener Promo,CUST-1019,Email,10/20/26,0,0,0
+CMP-1083,Latin Music VIP Access,CUST-1048,App Push,11/7/26,0,0,0
+CMP-1084,Holiday Spectacular Discount,CUST-1043,SMS,12/6/26,1,1,0
+CMP-1085,Rock Legends Tour Promo,CUST-1006,Email,1/11/27,0,0,0
+CMP-1086,Concert Flash Sale,CUST-1099,SMS,1/12/27,0,0,0
+CMP-1087,Firebirds Home Opener Promo,CUST-1022,Email,2/21/27,0,0,0
+CMP-1088,Lakers Ticket Alert,CUST-1067,SMS,12/21/26,1,1,0
+CMP-1089,Rock Legends Tour Promo,CUST-1074,Email,2/12/27,0,0,0
+CMP-1090,Lakers Ticket Alert,CUST-1061,Email,11/25/26,0,0,0
+CMP-1091,Firebirds Home Opener Promo,CUST-1033,App Push,1/18/27,1,0,0
+CMP-1092,Rock Legends Tour Promo,CUST-1085,App Push,10/18/26,0,0,0
+CMP-1093,Rock Legends Tour Promo,CUST-1059,SMS,12/20/26,1,0,0
+CMP-1094,Lakers Ticket Alert,CUST-1082,Email,2/27/27,0,0,0
+CMP-1095,Concert Flash Sale,CUST-1084,SMS,12/15/26,1,1,1
+CMP-1096,Rock Legends Tour Promo,CUST-1095,Email,1/1/27,0,0,0
+CMP-1097,Holiday Spectacular Discount,CUST-1012,Email,12/30/26,0,0,0
+CMP-1098,Country Showcase Presale,CUST-1056,SMS,10/27/26,0,0,0
+CMP-1099,Concert Flash Sale,CUST-1100,App Push,10/12/26,0,0,0
+CMP-1100,Rock Legends Tour Promo,CUST-1048,SMS,12/15/26,1,0,0
+CMP-1101,Firebirds Home Opener Promo,CUST-1082,SMS,10/2/26,0,0,0
+CMP-1102,Concert Flash Sale,CUST-1088,App Push,10/13/26,1,1,0
+CMP-1103,Concert Flash Sale,CUST-1042,App Push,10/15/26,0,0,0
+CMP-1104,Country Showcase Presale,CUST-1073,App Push,1/14/27,0,0,0
+CMP-1105,Lakers Ticket Alert,CUST-1014,Email,11/13/26,1,1,1
+CMP-1106,Rock Legends Tour Promo,CUST-1040,App Push,1/26/27,0,0,0
+CMP-1107,Holiday Spectacular Discount,CUST-1020,SMS,11/25/26,0,0,0
+CMP-1108,Holiday Spectacular Discount,CUST-1048,SMS,11/3/26,0,0,0
+CMP-1109,Firebirds Home Opener Promo,CUST-1058,Email,2/24/27,0,0,0
+CMP-1110,Concert Flash Sale,CUST-1023,App Push,10/12/26,0,0,0
+CMP-1111,Country Showcase Presale,CUST-1076,App Push,2/6/27,0,0,0
+CMP-1112,Rock Legends Tour Promo,CUST-1037,App Push,11/21/26,0,0,0
+CMP-1113,Rock Legends Tour Promo,CUST-1079,App Push,1/31/27,0,0,0
+CMP-1114,Firebirds Home Opener Promo,CUST-1017,App Push,12/15/26,0,0,0
+CMP-1115,Holiday Spectacular Discount,CUST-1043,Email,10/10/26,0,0,0
+CMP-1116,Country Showcase Presale,CUST-1027,Email,1/1/27,0,0,0
+CMP-1117,Rock Legends Tour Promo,CUST-1054,App Push,2/19/27,0,0,0
+CMP-1118,Latin Music VIP Access,CUST-1024,Email,12/12/26,1,1,0
+CMP-1119,Rock Legends Tour Promo,CUST-1005,SMS,11/23/26,0,0,0
+CMP-1120,Concert Flash Sale,CUST-1017,Email,10/30/26,0,0,0
+CMP-1121,Lakers Ticket Alert,CUST-1050,Email,11/27/26,1,1,0
+CMP-1122,Rock Legends Tour Promo,CUST-1084,SMS,1/4/27,1,1,0
+CMP-1123,Rock Legends Tour Promo,CUST-1027,Email,10/7/26,1,0,0
+CMP-1124,Country Showcase Presale,CUST-1013,SMS,2/26/27,0,0,0
+CMP-1125,Latin Music VIP Access,CUST-1030,SMS,11/16/26,0,0,0
+CMP-1126,Holiday Spectacular Discount,CUST-1046,App Push,10/4/26,0,0,0
+CMP-1127,Lakers Ticket Alert,CUST-1040,Email,12/25/26,0,0,0
+CMP-1128,Country Showcase Presale,CUST-1050,App Push,12/26/26,1,1,1
+CMP-1129,Country Showcase Presale,CUST-1045,SMS,12/14/26,1,1,0
+CMP-1130,Lakers Ticket Alert,CUST-1031,SMS,11/29/26,0,0,0
+CMP-1131,Concert Flash Sale,CUST-1048,Email,11/17/26,0,0,0
+CMP-1132,Country Showcase Presale,CUST-1001,Email,1/13/27,0,0,0
+CMP-1133,Holiday Spectacular Discount,CUST-1098,SMS,10/7/26,0,0,0
+CMP-1134,Latin Music VIP Access,CUST-1095,SMS,12/4/26,0,0,0
+CMP-1135,Latin Music VIP Access,CUST-1065,App Push,2/12/27,0,0,0
+CMP-1136,Latin Music VIP Access,CUST-1020,SMS,10/30/26,1,0,0
+CMP-1137,Concert Flash Sale,CUST-1062,SMS,1/13/27,1,0,0
+CMP-1138,Latin Music VIP Access,CUST-1039,SMS,1/17/27,1,0,0
+CMP-1139,Country Showcase Presale,CUST-1027,SMS,1/6/27,1,0,0
+CMP-1140,Latin Music VIP Access,CUST-1047,Email,2/8/27,0,0,0
+CMP-1141,Lakers Ticket Alert,CUST-1026,App Push,2/27/27,1,0,0
+CMP-1142,Firebirds Home Opener Promo,CUST-1049,App Push,12/31/26,1,0,0
+CMP-1143,Latin Music VIP Access,CUST-1052,SMS,11/21/26,0,0,0
+CMP-1144,Latin Music VIP Access,CUST-1004,Email,2/25/27,0,0,0
+CMP-1145,Lakers Ticket Alert,CUST-1052,SMS,10/2/26,0,0,0
+CMP-1146,Latin Music VIP Access,CUST-1052,App Push,1/14/27,1,0,0
+CMP-1147,Country Showcase Presale,CUST-1041,SMS,1/23/27,1,1,0
+CMP-1148,Concert Flash Sale,CUST-1040,Email,10/19/26,0,0,0
+CMP-1149,Concert Flash Sale,CUST-1058,App Push,10/12/26,0,0,0
+CMP-1150,Lakers Ticket Alert,CUST-1048,App Push,1/29/27,0,0,0
+CMP-1151,Concert Flash Sale,CUST-1031,App Push,2/1/27,0,0,0
+CMP-1152,Concert Flash Sale,CUST-1021,App Push,1/3/27,0,0,0
+CMP-1153,Firebirds Home Opener Promo,CUST-1069,App Push,2/4/27,0,0,0
+CMP-1154,Country Showcase Presale,CUST-1079,SMS,10/15/26,1,0,0
+CMP-1155,Rock Legends Tour Promo,CUST-1091,SMS,12/28/26,1,1,1
+CMP-1156,Firebirds Home Opener Promo,CUST-1091,Email,2/10/27,1,0,0
+CMP-1157,Rock Legends Tour Promo,CUST-1087,SMS,2/28/27,0,0,0
+CMP-1158,Country Showcase Presale,CUST-1043,SMS,12/6/26,0,0,0
+CMP-1159,Firebirds Home Opener Promo,CUST-1067,Email,2/24/27,1,0,0
+CMP-1160,Firebirds Home Opener Promo,CUST-1024,App Push,11/3/26,0,0,0
+CMP-1161,Country Showcase Presale,CUST-1002,SMS,12/22/26,0,0,0
+CMP-1162,Latin Music VIP Access,CUST-1065,SMS,10/24/26,0,0,0
+CMP-1163,Rock Legends Tour Promo,CUST-1049,Email,2/2/27,0,0,0
+CMP-1164,Rock Legends Tour Promo,CUST-1052,Email,2/3/27,0,0,0
+CMP-1165,Latin Music VIP Access,CUST-1002,App Push,10/13/26,0,0,0
+CMP-1166,Rock Legends Tour Promo,CUST-1018,SMS,2/20/27,1,0,0
+CMP-1167,Country Showcase Presale,CUST-1010,SMS,10/23/26,0,0,0
+CMP-1168,Firebirds Home Opener Promo,CUST-1064,Email,11/3/26,1,1,0
+CMP-1169,Rock Legends Tour Promo,CUST-1077,SMS,11/1/26,0,0,0
+CMP-1170,Holiday Spectacular Discount,CUST-1034,Email,1/3/27,0,0,0
+CMP-1171,Firebirds Home Opener Promo,CUST-1022,App Push,2/4/27,1,1,1
+CMP-1172,Rock Legends Tour Promo,CUST-1062,Email,2/1/27,0,0,0
+CMP-1173,Latin Music VIP Access,CUST-1008,App Push,12/20/26,1,0,0
+CMP-1174,Latin Music VIP Access,CUST-1047,App Push,1/4/27,0,0,0
+CMP-1175,Rock Legends Tour Promo,CUST-1030,Email,12/2/26,0,0,0
+CMP-1176,Rock Legends Tour Promo,CUST-1030,SMS,12/11/26,0,0,0
+CMP-1177,Rock Legends Tour Promo,CUST-1087,Email,10/15/26,1,0,0
+CMP-1178,Firebirds Home Opener Promo,CUST-1096,App Push,1/28/27,1,0,0
+CMP-1179,Firebirds Home Opener Promo,CUST-1080,App Push,12/13/26,0,0,0
+CMP-1180,Holiday Spectacular Discount,CUST-1068,SMS,11/5/26,0,0,0
+CMP-1181,Firebirds Home Opener Promo,CUST-1064,App Push,10/31/26,0,0,0
+CMP-1182,Country Showcase Presale,CUST-1040,Email,12/8/26,1,0,0
+CMP-1183,Latin Music VIP Access,CUST-1049,App Push,1/6/27,0,0,0
+CMP-1184,Firebirds Home Opener Promo,CUST-1046,App Push,10/20/26,0,0,0
+CMP-1185,Concert Flash Sale,CUST-1058,SMS,2/18/27,1,0,0
+CMP-1186,Firebirds Home Opener Promo,CUST-1059,SMS,2/2/27,0,0,0
+CMP-1187,Holiday Spectacular Discount,CUST-1055,App Push,12/31/26,1,0,0
+CMP-1188,Rock Legends Tour Promo,CUST-1084,SMS,12/20/26,1,0,0
+CMP-1189,Concert Flash Sale,CUST-1014,App Push,12/24/26,0,0,0
+CMP-1190,Concert Flash Sale,CUST-1081,Email,11/20/26,0,0,0
+CMP-1191,Concert Flash Sale,CUST-1022,App Push,10/19/26,0,0,0
+CMP-1192,Latin Music VIP Access,CUST-1061,App Push,1/10/27,0,0,0
+CMP-1193,Rock Legends Tour Promo,CUST-1091,Email,10/2/26,0,0,0
+CMP-1194,Firebirds Home Opener Promo,CUST-1002,App Push,2/10/27,1,1,1
+CMP-1195,Rock Legends Tour Promo,CUST-1004,Email,10/20/26,0,0,0
+CMP-1196,Latin Music VIP Access,CUST-1077,App Push,12/28/26,0,0,0
+CMP-1197,Latin Music VIP Access,CUST-1002,Email,12/28/26,0,0,0
+CMP-1198,Lakers Ticket Alert,CUST-1087,SMS,10/24/26,0,0,0
+CMP-1199,Holiday Spectacular Discount,CUST-1047,Email,11/2/26,1,0,0
+CMP-1200,Latin Music VIP Access,CUST-1085,SMS,11/30/26,1,1,0
+CMP-1201,Country Showcase Presale,CUST-1022,App Push,1/3/27,1,0,0
+CMP-1202,Country Showcase Presale,CUST-1095,Email,12/24/26,0,0,0
+CMP-1203,Country Showcase Presale,CUST-1082,SMS,10/7/26,0,0,0
+CMP-1204,Holiday Spectacular Discount,CUST-1093,Email,2/15/27,0,0,0
+CMP-1205,Lakers Ticket Alert,CUST-1074,SMS,1/16/27,1,0,0
+CMP-1206,Holiday Spectacular Discount,CUST-1013,App Push,1/28/27,0,0,0
+CMP-1207,Firebirds Home Opener Promo,CUST-1090,App Push,10/5/26,1,0,0
+CMP-1208,Holiday Spectacular Discount,CUST-1040,App Push,2/26/27,0,0,0
+CMP-1209,Holiday Spectacular Discount,CUST-1092,Email,12/22/26,1,0,0
+CMP-1210,Latin Music VIP Access,CUST-1070,Email,2/17/27,1,0,0
+CMP-1211,Concert Flash Sale,CUST-1083,SMS,1/23/27,1,1,0
+CMP-1212,Lakers Ticket Alert,CUST-1064,SMS,10/17/26,1,0,0
+CMP-1213,Concert Flash Sale,CUST-1040,SMS,2/28/27,1,1,1
+CMP-1214,Firebirds Home Opener Promo,CUST-1095,Email,1/22/27,0,0,0
+CMP-1215,Firebirds Home Opener Promo,CUST-1066,App Push,10/24/26,1,0,0
+CMP-1216,Latin Music VIP Access,CUST-1039,Email,10/12/26,0,0,0
+CMP-1217,Lakers Ticket Alert,CUST-1027,SMS,11/25/26,0,0,0
+CMP-1218,Latin Music VIP Access,CUST-1076,Email,2/24/27,1,1,1
+CMP-1219,Concert Flash Sale,CUST-1041,App Push,12/21/26,0,0,0
+CMP-1220,Firebirds Home Opener Promo,CUST-1064,Email,2/12/27,0,0,0
+CMP-1221,Lakers Ticket Alert,CUST-1026,App Push,10/29/26,0,0,0
+CMP-1222,Firebirds Home Opener Promo,CUST-1014,SMS,11/4/26,0,0,0
+CMP-1223,Lakers Ticket Alert,CUST-1007,SMS,1/28/27,0,0,0
+CMP-1224,Holiday Spectacular Discount,CUST-1015,Email,10/6/26,1,0,0
+CMP-1225,Lakers Ticket Alert,CUST-1046,Email,2/22/27,0,0,0
+CMP-1226,Rock Legends Tour Promo,CUST-1087,SMS,11/6/26,1,0,0
+CMP-1227,Lakers Ticket Alert,CUST-1090,SMS,10/5/26,0,0,0
+CMP-1228,Concert Flash Sale,CUST-1092,App Push,12/30/26,1,0,0
+CMP-1229,Holiday Spectacular Discount,CUST-1040,Email,12/13/26,0,0,0
+CMP-1230,Lakers Ticket Alert,CUST-1009,Email,1/10/27,1,1,1
+CMP-1231,Country Showcase Presale,CUST-1005,App Push,2/24/27,1,0,0
+CMP-1232,Holiday Spectacular Discount,CUST-1043,App Push,10/30/26,0,0,0
+CMP-1233,Lakers Ticket Alert,CUST-1083,App Push,12/13/26,0,0,0
+CMP-1234,Latin Music VIP Access,CUST-1026,SMS,11/5/26,0,0,0
+CMP-1235,Firebirds Home Opener Promo,CUST-1034,Email,10/19/26,1,1,1
+CMP-1236,Firebirds Home Opener Promo,CUST-1013,Email,10/24/26,0,0,0
+CMP-1237,Rock Legends Tour Promo,CUST-1052,SMS,2/18/27,1,1,1
+CMP-1238,Firebirds Home Opener Promo,CUST-1072,SMS,11/2/26,1,0,0
+CMP-1239,Rock Legends Tour Promo,CUST-1021,SMS,1/11/27,0,0,0
+CMP-1240,Lakers Ticket Alert,CUST-1050,App Push,11/22/26,0,0,0
+CMP-1241,Rock Legends Tour Promo,CUST-1066,Email,12/26/26,1,0,0
+CMP-1242,Rock Legends Tour Promo,CUST-1031,Email,12/15/26,0,0,0
+CMP-1243,Rock Legends Tour Promo,CUST-1078,SMS,12/31/26,1,1,0
+CMP-1244,Concert Flash Sale,CUST-1081,Email,1/26/27,1,0,0
+CMP-1245,Rock Legends Tour Promo,CUST-1039,App Push,2/2/27,1,1,1
+CMP-1246,Rock Legends Tour Promo,CUST-1018,SMS,12/20/26,1,0,0
+CMP-1247,Holiday Spectacular Discount,CUST-1082,SMS,10/3/26,0,0,0
+CMP-1248,Latin Music VIP Access,CUST-1001,SMS,11/13/26,0,0,0
+CMP-1249,Concert Flash Sale,CUST-1090,App Push,1/1/27,0,0,0
+CMP-1250,Latin Music VIP Access,CUST-1095,SMS,1/10/27,0,0,0
+CMP-1251,Rock Legends Tour Promo,CUST-1009,SMS,12/3/26,0,0,0
+CMP-1252,Lakers Ticket Alert,CUST-1021,App Push,2/12/27,0,0,0
+CMP-1253,Rock Legends Tour Promo,CUST-1054,Email,1/22/27,1,0,0
+CMP-1254,Country Showcase Presale,CUST-1001,Email,2/21/27,0,0,0
+CMP-1255,Latin Music VIP Access,CUST-1030,Email,1/19/27,0,0,0
+CMP-1256,Latin Music VIP Access,CUST-1091,SMS,12/25/26,0,0,0
+CMP-1257,Country Showcase Presale,CUST-1085,SMS,11/30/26,1,0,0
+CMP-1258,Country Showcase Presale,CUST-1021,App Push,2/18/27,1,0,0
+CMP-1259,Concert Flash Sale,CUST-1043,SMS,11/25/26,0,0,0
+CMP-1260,Country Showcase Presale,CUST-1045,SMS,10/14/26,0,0,0
+CMP-1261,Holiday Spectacular Discount,CUST-1025,App Push,2/17/27,0,0,0
+CMP-1262,Country Showcase Presale,CUST-1014,App Push,2/10/27,1,0,0
+CMP-1263,Holiday Spectacular Discount,CUST-1071,App Push,1/21/27,0,0,0
+CMP-1264,Concert Flash Sale,CUST-1099,App Push,2/15/27,0,0,0
+CMP-1265,Firebirds Home Opener Promo,CUST-1067,SMS,12/9/26,1,1,0
+CMP-1266,Lakers Ticket Alert,CUST-1098,App Push,12/23/26,0,0,0
+CMP-1267,Concert Flash Sale,CUST-1066,App Push,1/16/27,1,0,0
+CMP-1268,Latin Music VIP Access,CUST-1035,Email,10/25/26,0,0,0
+CMP-1269,Firebirds Home Opener Promo,CUST-1084,SMS,2/13/27,0,0,0
+CMP-1270,Country Showcase Presale,CUST-1013,SMS,2/22/27,1,0,0
+CMP-1271,Holiday Spectacular Discount,CUST-1048,SMS,12/27/26,0,0,0
+CMP-1272,Latin Music VIP Access,CUST-1076,Email,2/7/27,0,0,0
+CMP-1273,Country Showcase Presale,CUST-1018,SMS,1/28/27,1,0,0
+CMP-1274,Concert Flash Sale,CUST-1092,App Push,12/14/26,1,0,0
+CMP-1275,Country Showcase Presale,CUST-1037,Email,2/19/27,0,0,0
+CMP-1276,Holiday Spectacular Discount,CUST-1016,Email,11/21/26,1,0,0
+CMP-1277,Holiday Spectacular Discount,CUST-1085,Email,10/11/26,0,0,0
+CMP-1278,Concert Flash Sale,CUST-1033,App Push,12/9/26,0,0,0
+CMP-1279,Latin Music VIP Access,CUST-1049,App Push,1/23/27,0,0,0
+CMP-1280,Rock Legends Tour Promo,CUST-1070,SMS,12/31/26,0,0,0
+CMP-1281,Latin Music VIP Access,CUST-1024,SMS,2/19/27,1,0,0
+CMP-1282,Firebirds Home Opener Promo,CUST-1086,Email,11/14/26,1,0,0
+CMP-1283,Rock Legends Tour Promo,CUST-1034,Email,12/28/26,0,0,0
+CMP-1284,Holiday Spectacular Discount,CUST-1090,Email,12/8/26,0,0,0
+CMP-1285,Country Showcase Presale,CUST-1070,Email,11/30/26,0,0,0
+CMP-1286,Lakers Ticket Alert,CUST-1094,Email,1/18/27,0,0,0
+CMP-1287,Holiday Spectacular Discount,CUST-1096,App Push,12/16/26,0,0,0
+CMP-1288,Rock Legends Tour Promo,CUST-1023,Email,10/17/26,1,0,0
+CMP-1289,Country Showcase Presale,CUST-1095,Email,12/24/26,0,0,0
+CMP-1290,Concert Flash Sale,CUST-1036,Email,1/7/27,1,0,0
+CMP-1291,Country Showcase Presale,CUST-1065,SMS,10/7/26,1,1,0
+CMP-1292,Country Showcase Presale,CUST-1025,Email,1/9/27,1,1,1
+CMP-1293,Concert Flash Sale,CUST-1077,App Push,10/28/26,0,0,0
+CMP-1294,Country Showcase Presale,CUST-1025,Email,2/4/27,0,0,0
+CMP-1295,Holiday Spectacular Discount,CUST-1003,Email,12/10/26,1,0,0
+CMP-1296,Country Showcase Presale,CUST-1074,SMS,2/15/27,1,1,0
+CMP-1297,Concert Flash Sale,CUST-1016,App Push,2/22/27,1,1,1
+CMP-1298,Concert Flash Sale,CUST-1015,Email,12/5/26,0,0,0
+CMP-1299,Latin Music VIP Access,CUST-1063,SMS,12/31/26,1,0,0
+CMP-1300,Concert Flash Sale,CUST-1004,Email,1/24/27,0,0,0
+CMP-1301,Firebirds Home Opener Promo,CUST-1005,SMS,2/19/27,0,0,0
+CMP-1302,Lakers Ticket Alert,CUST-1032,SMS,1/22/27,0,0,0
+CMP-1303,Country Showcase Presale,CUST-1084,SMS,10/29/26,0,0,0
+CMP-1304,Lakers Ticket Alert,CUST-1065,SMS,11/17/26,1,0,0
+CMP-1305,Firebirds Home Opener Promo,CUST-1012,Email,10/26/26,1,1,0
+CMP-1306,Concert Flash Sale,CUST-1060,Email,10/22/26,0,0,0
+CMP-1307,Holiday Spectacular Discount,CUST-1044,SMS,10/31/26,0,0,0
+CMP-1308,Firebirds Home Opener Promo,CUST-1081,SMS,12/4/26,0,0,0
+CMP-1309,Holiday Spectacular Discount,CUST-1087,Email,1/22/27,0,0,0
+CMP-1310,Rock Legends Tour Promo,CUST-1008,Email,12/21/26,0,0,0
+CMP-1311,Rock Legends Tour Promo,CUST-1046,SMS,12/27/26,0,0,0
+CMP-1312,Lakers Ticket Alert,CUST-1039,Email,1/28/27,0,0,0
+CMP-1313,Firebirds Home Opener Promo,CUST-1044,SMS,1/1/27,0,0,0
+CMP-1314,Country Showcase Presale,CUST-1055,SMS,2/8/27,1,0,0
+CMP-1315,Holiday Spectacular Discount,CUST-1099,SMS,1/6/27,0,0,0
+CMP-1316,Latin Music VIP Access,CUST-1004,Email,2/1/27,1,0,0
+CMP-1317,Country Showcase Presale,CUST-1027,App Push,12/15/26,0,0,0
+CMP-1318,Country Showcase Presale,CUST-1053,Email,12/20/26,0,0,0
+CMP-1319,Lakers Ticket Alert,CUST-1020,SMS,1/5/27,0,0,0
+CMP-1320,Concert Flash Sale,CUST-1062,Email,1/22/27,1,0,0
+CMP-1321,Latin Music VIP Access,CUST-1039,SMS,12/5/26,1,0,0
+CMP-1322,Rock Legends Tour Promo,CUST-1007,SMS,11/25/26,1,0,0
+CMP-1323,Holiday Spectacular Discount,CUST-1046,SMS,11/10/26,0,0,0
+CMP-1324,Lakers Ticket Alert,CUST-1097,App Push,12/1/26,0,0,0
+CMP-1325,Rock Legends Tour Promo,CUST-1003,SMS,2/19/27,1,0,0
+CMP-1326,Rock Legends Tour Promo,CUST-1048,App Push,12/10/26,0,0,0
+CMP-1327,Holiday Spectacular Discount,CUST-1084,Email,10/18/26,0,0,0
+CMP-1328,Firebirds Home Opener Promo,CUST-1017,Email,10/20/26,1,1,0
+CMP-1329,Latin Music VIP Access,CUST-1043,App Push,10/1/26,0,0,0
+CMP-1330,Holiday Spectacular Discount,CUST-1094,App Push,2/15/27,0,0,0
+CMP-1331,Rock Legends Tour Promo,CUST-1065,SMS,11/11/26,0,0,0
+CMP-1332,Concert Flash Sale,CUST-1015,App Push,2/20/27,0,0,0
+CMP-1333,Lakers Ticket Alert,CUST-1054,Email,12/15/26,0,0,0
+CMP-1334,Concert Flash Sale,CUST-1011,SMS,2/23/27,0,0,0
+CMP-1335,Latin Music VIP Access,CUST-1005,Email,2/15/27,0,0,0
+CMP-1336,Firebirds Home Opener Promo,CUST-1055,SMS,11/22/26,1,1,1
+CMP-1337,Lakers Ticket Alert,CUST-1046,SMS,10/31/26,1,1,0
+CMP-1338,Concert Flash Sale,CUST-1003,SMS,1/26/27,0,0,0
+CMP-1339,Country Showcase Presale,CUST-1088,SMS,11/9/26,1,1,1
+CMP-1340,Latin Music VIP Access,CUST-1011,App Push,2/15/27,0,0,0
+CMP-1341,Concert Flash Sale,CUST-1076,Email,11/15/26,0,0,0
+CMP-1342,Country Showcase Presale,CUST-1019,SMS,2/18/27,0,0,0
+CMP-1343,Concert Flash Sale,CUST-1098,App Push,11/28/26,1,1,0
+CMP-1344,Latin Music VIP Access,CUST-1094,Email,1/5/27,0,0,0
+CMP-1345,Firebirds Home Opener Promo,CUST-1007,App Push,12/6/26,1,0,0
+CMP-1346,Country Showcase Presale,CUST-1083,SMS,1/18/27,1,0,0
+CMP-1347,Concert Flash Sale,CUST-1023,App Push,1/10/27,0,0,0
+CMP-1348,Latin Music VIP Access,CUST-1080,Email,2/27/27,1,1,0
+CMP-1349,Lakers Ticket Alert,CUST-1027,SMS,1/24/27,0,0,0
+CMP-1350,Concert Flash Sale,CUST-1082,Email,1/12/27,1,1,0
+CMP-1351,Latin Music VIP Access,CUST-1064,SMS,2/18/27,0,0,0
+CMP-1352,Firebirds Home Opener Promo,CUST-1003,Email,1/29/27,0,0,0
+CMP-1353,Lakers Ticket Alert,CUST-1093,SMS,1/1/27,1,1,1
+CMP-1354,Rock Legends Tour Promo,CUST-1069,App Push,2/3/27,1,1,0
+CMP-1355,Concert Flash Sale,CUST-1025,App Push,10/14/26,0,0,0
+CMP-1356,Country Showcase Presale,CUST-1066,Email,11/2/26,1,0,0
+CMP-1357,Holiday Spectacular Discount,CUST-1099,App Push,1/13/27,0,0,0
+CMP-1358,Firebirds Home Opener Promo,CUST-1097,Email,2/16/27,0,0,0
+CMP-1359,Country Showcase Presale,CUST-1084,App Push,11/25/26,1,1,0
+CMP-1360,Lakers Ticket Alert,CUST-1017,SMS,1/30/27,0,0,0
+CMP-1361,Rock Legends Tour Promo,CUST-1004,App Push,11/23/26,1,0,0
+CMP-1362,Concert Flash Sale,CUST-1075,Email,12/1/26,1,0,0
+CMP-1363,Country Showcase Presale,CUST-1054,App Push,1/19/27,0,0,0
+CMP-1364,Country Showcase Presale,CUST-1054,App Push,2/20/27,1,0,0
+CMP-1365,Country Showcase Presale,CUST-1098,SMS,2/17/27,0,0,0
+CMP-1366,Holiday Spectacular Discount,CUST-1017,Email,2/2/27,1,0,0
+CMP-1367,Rock Legends Tour Promo,CUST-1053,App Push,10/16/26,0,0,0
+CMP-1368,Holiday Spectacular Discount,CUST-1059,Email,2/20/27,0,0,0
+CMP-1369,Country Showcase Presale,CUST-1039,Email,11/21/26,0,0,0
+CMP-1370,Holiday Spectacular Discount,CUST-1044,SMS,2/27/27,1,1,0
+CMP-1371,Lakers Ticket Alert,CUST-1078,Email,12/21/26,1,0,0
+CMP-1372,Latin Music VIP Access,CUST-1079,Email,2/8/27,1,1,0
+CMP-1373,Latin Music VIP Access,CUST-1067,Email,1/19/27,0,0,0
+CMP-1374,Rock Legends Tour Promo,CUST-1028,Email,2/23/27,1,0,0
+CMP-1375,Country Showcase Presale,CUST-1097,App Push,10/16/26,1,0,0
+CMP-1376,Holiday Spectacular Discount,CUST-1079,App Push,11/17/26,0,0,0
+CMP-1377,Lakers Ticket Alert,CUST-1037,App Push,12/15/26,0,0,0
+CMP-1378,Lakers Ticket Alert,CUST-1004,App Push,12/18/26,0,0,0
+CMP-1379,Lakers Ticket Alert,CUST-1007,SMS,1/5/27,0,0,0
+CMP-1380,Lakers Ticket Alert,CUST-1018,Email,12/24/26,1,0,0
+CMP-1381,Country Showcase Presale,CUST-1019,SMS,1/10/27,0,0,0
+CMP-1382,Rock Legends Tour Promo,CUST-1094,App Push,1/14/27,1,0,0
+CMP-1383,Country Showcase Presale,CUST-1005,App Push,10/13/26,0,0,0
+CMP-1384,Lakers Ticket Alert,CUST-1029,SMS,2/10/27,0,0,0
+CMP-1385,Country Showcase Presale,CUST-1003,SMS,11/22/26,1,0,0
+CMP-1386,Rock Legends Tour Promo,CUST-1083,Email,11/15/26,0,0,0
+CMP-1387,Latin Music VIP Access,CUST-1068,Email,10/23/26,0,0,0
+CMP-1388,Firebirds Home Opener Promo,CUST-1063,Email,11/27/26,1,1,1
+CMP-1389,Holiday Spectacular Discount,CUST-1069,Email,12/18/26,0,0,0
+CMP-1390,Rock Legends Tour Promo,CUST-1033,App Push,11/10/26,1,0,0
+CMP-1391,Latin Music VIP Access,CUST-1059,Email,12/16/26,0,0,0
+CMP-1392,Rock Legends Tour Promo,CUST-1021,App Push,12/8/26,1,1,0
+CMP-1393,Rock Legends Tour Promo,CUST-1083,SMS,2/13/27,0,0,0
+CMP-1394,Latin Music VIP Access,CUST-1059,Email,11/19/26,0,0,0
+CMP-1395,Concert Flash Sale,CUST-1067,App Push,12/30/26,0,0,0
+CMP-1396,Country Showcase Presale,CUST-1070,Email,1/14/27,0,0,0
+CMP-1397,Firebirds Home Opener Promo,CUST-1093,SMS,12/13/26,1,0,0
+CMP-1398,Lakers Ticket Alert,CUST-1031,App Push,2/14/27,0,0,0
+CMP-1399,Latin Music VIP Access,CUST-1059,SMS,11/11/26,1,0,0
+CMP-1400,Lakers Ticket Alert,CUST-1070,App Push,11/10/26,0,0,0
+CMP-1401,Country Showcase Presale,CUST-1058,SMS,1/14/27,0,0,0
+CMP-1402,Firebirds Home Opener Promo,CUST-1071,App Push,2/26/27,0,0,0
+CMP-1403,Country Showcase Presale,CUST-1086,App Push,11/29/26,0,0,0
+CMP-1404,Holiday Spectacular Discount,CUST-1049,App Push,1/24/27,1,0,0
+CMP-1405,Firebirds Home Opener Promo,CUST-1046,App Push,2/17/27,0,0,0
+CMP-1406,Concert Flash Sale,CUST-1089,App Push,12/5/26,0,0,0
+CMP-1407,Firebirds Home Opener Promo,CUST-1068,Email,10/28/26,1,1,0
+CMP-1408,Lakers Ticket Alert,CUST-1087,Email,10/1/26,0,0,0
+CMP-1409,Latin Music VIP Access,CUST-1081,SMS,10/18/26,1,0,0
+CMP-1410,Holiday Spectacular Discount,CUST-1100,App Push,11/26/26,1,1,0
+CMP-1411,Lakers Ticket Alert,CUST-1005,SMS,10/20/26,1,0,0
+CMP-1412,Concert Flash Sale,CUST-1037,Email,1/14/27,0,0,0
+CMP-1413,Firebirds Home Opener Promo,CUST-1013,App Push,10/21/26,0,0,0
+CMP-1414,Country Showcase Presale,CUST-1098,SMS,11/26/26,1,0,0
+CMP-1415,Firebirds Home Opener Promo,CUST-1019,Email,12/22/26,1,0,0
+CMP-1416,Concert Flash Sale,CUST-1078,SMS,12/6/26,1,0,0
+CMP-1417,Concert Flash Sale,CUST-1069,App Push,2/5/27,0,0,0
+CMP-1418,Concert Flash Sale,CUST-1003,Email,12/30/26,0,0,0
+CMP-1419,Lakers Ticket Alert,CUST-1069,Email,1/13/27,1,0,0
+CMP-1420,Firebirds Home Opener Promo,CUST-1055,App Push,12/3/26,1,1,0
+CMP-1421,Lakers Ticket Alert,CUST-1083,Email,10/4/26,1,1,1
+CMP-1422,Country Showcase Presale,CUST-1039,SMS,12/3/26,0,0,0
+CMP-1423,Concert Flash Sale,CUST-1072,SMS,1/2/27,1,1,0
+CMP-1424,Firebirds Home Opener Promo,CUST-1094,App Push,10/20/26,0,0,0
+CMP-1425,Country Showcase Presale,CUST-1008,Email,11/4/26,0,0,0
+CMP-1426,Country Showcase Presale,CUST-1065,App Push,2/7/27,0,0,0
+CMP-1427,Concert Flash Sale,CUST-1028,Email,12/3/26,1,0,0
+CMP-1428,Firebirds Home Opener Promo,CUST-1064,SMS,12/6/26,1,0,0
+CMP-1429,Country Showcase Presale,CUST-1064,SMS,1/12/27,0,0,0
+CMP-1430,Lakers Ticket Alert,CUST-1092,App Push,2/2/27,0,0,0
+CMP-1431,Country Showcase Presale,CUST-1099,SMS,1/1/27,0,0,0
+CMP-1432,Country Showcase Presale,CUST-1100,App Push,1/15/27,1,1,0
+CMP-1433,Firebirds Home Opener Promo,CUST-1064,Email,2/23/27,0,0,0
+CMP-1434,Lakers Ticket Alert,CUST-1083,Email,11/5/26,0,0,0
+CMP-1435,Firebirds Home Opener Promo,CUST-1012,Email,1/25/27,0,0,0
+CMP-1436,Concert Flash Sale,CUST-1052,Email,2/18/27,0,0,0
+CMP-1437,Firebirds Home Opener Promo,CUST-1080,SMS,11/4/26,1,1,0
+CMP-1438,Latin Music VIP Access,CUST-1084,App Push,10/21/26,0,0,0
+CMP-1439,Holiday Spectacular Discount,CUST-1047,SMS,12/6/26,0,0,0
+CMP-1440,Rock Legends Tour Promo,CUST-1070,SMS,1/22/27,1,1,0
+CMP-1441,Rock Legends Tour Promo,CUST-1088,App Push,10/21/26,1,1,0
+CMP-1442,Latin Music VIP Access,CUST-1023,SMS,11/17/26,0,0,0
+CMP-1443,Holiday Spectacular Discount,CUST-1026,Email,11/14/26,0,0,0
+CMP-1444,Concert Flash Sale,CUST-1024,SMS,12/7/26,1,1,0
+CMP-1445,Firebirds Home Opener Promo,CUST-1023,Email,11/22/26,1,1,1
+CMP-1446,Country Showcase Presale,CUST-1009,App Push,10/24/26,0,0,0
+CMP-1447,Holiday Spectacular Discount,CUST-1099,Email,1/7/27,1,1,1
+CMP-1448,Country Showcase Presale,CUST-1045,SMS,11/28/26,0,0,0
+CMP-1449,Country Showcase Presale,CUST-1055,App Push,2/1/27,0,0,0
+CMP-1450,Latin Music VIP Access,CUST-1089,SMS,11/15/26,0,0,0
+CMP-1451,Holiday Spectacular Discount,CUST-1083,App Push,2/4/27,1,0,0
+CMP-1452,Latin Music VIP Access,CUST-1082,Email,10/26/26,1,0,0
+CMP-1453,Rock Legends Tour Promo,CUST-1044,SMS,12/17/26,0,0,0
+CMP-1454,Rock Legends Tour Promo,CUST-1008,SMS,11/8/26,1,0,0
+CMP-1455,Country Showcase Presale,CUST-1035,SMS,10/1/26,0,0,0
+CMP-1456,Concert Flash Sale,CUST-1090,App Push,2/14/27,1,1,1
+CMP-1457,Latin Music VIP Access,CUST-1096,Email,12/25/26,1,0,0
+CMP-1458,Country Showcase Presale,CUST-1015,App Push,10/11/26,0,0,0
+CMP-1459,Concert Flash Sale,CUST-1011,SMS,11/7/26,0,0,0
+CMP-1460,Latin Music VIP Access,CUST-1006,App Push,1/5/27,0,0,0
+CMP-1461,Firebirds Home Opener Promo,CUST-1009,SMS,1/21/27,1,0,0
+CMP-1462,Country Showcase Presale,CUST-1078,SMS,11/8/26,0,0,0
+CMP-1463,Country Showcase Presale,CUST-1067,App Push,1/8/27,0,0,0
+CMP-1464,Country Showcase Presale,CUST-1030,App Push,10/24/26,0,0,0
+CMP-1465,Latin Music VIP Access,CUST-1084,SMS,12/29/26,1,0,0
+CMP-1466,Rock Legends Tour Promo,CUST-1057,App Push,11/19/26,1,1,1
+CMP-1467,Firebirds Home Opener Promo,CUST-1080,SMS,10/15/26,0,0,0
+CMP-1468,Concert Flash Sale,CUST-1078,App Push,11/13/26,0,0,0
+CMP-1469,Firebirds Home Opener Promo,CUST-1059,App Push,11/18/26,0,0,0
+CMP-1470,Lakers Ticket Alert,CUST-1075,App Push,1/6/27,0,0,0
+CMP-1471,Holiday Spectacular Discount,CUST-1090,SMS,10/11/26,1,1,0
+CMP-1472,Holiday Spectacular Discount,CUST-1085,Email,12/28/26,0,0,0
+CMP-1473,Holiday Spectacular Discount,CUST-1005,Email,12/4/26,0,0,0
+CMP-1474,Lakers Ticket Alert,CUST-1043,App Push,10/2/26,0,0,0
+CMP-1475,Country Showcase Presale,CUST-1055,SMS,10/9/26,1,0,0
+CMP-1476,Firebirds Home Opener Promo,CUST-1020,App Push,11/2/26,1,1,0
+CMP-1477,Latin Music VIP Access,CUST-1039,SMS,10/3/26,0,0,0
+CMP-1478,Latin Music VIP Access,CUST-1093,SMS,1/20/27,1,0,0
+CMP-1479,Latin Music VIP Access,CUST-1091,Email,2/18/27,0,0,0
+CMP-1480,Holiday Spectacular Discount,CUST-1100,SMS,10/3/26,0,0,0
+CMP-1481,Concert Flash Sale,CUST-1025,Email,11/18/26,0,0,0
+CMP-1482,Holiday Spectacular Discount,CUST-1031,Email,11/16/26,0,0,0
+CMP-1483,Firebirds Home Opener Promo,CUST-1081,SMS,10/13/26,0,0,0
+CMP-1484,Firebirds Home Opener Promo,CUST-1020,Email,10/15/26,1,0,0
+CMP-1485,Concert Flash Sale,CUST-1091,App Push,12/22/26,0,0,0
+CMP-1486,Lakers Ticket Alert,CUST-1065,SMS,10/9/26,0,0,0
+CMP-1487,Rock Legends Tour Promo,CUST-1082,Email,2/2/27,1,1,0
+CMP-1488,Latin Music VIP Access,CUST-1056,SMS,12/31/26,0,0,0
+CMP-1489,Rock Legends Tour Promo,CUST-1012,App Push,2/5/27,0,0,0
+CMP-1490,Holiday Spectacular Discount,CUST-1046,App Push,10/28/26,1,1,0
+CMP-1491,Concert Flash Sale,CUST-1025,SMS,12/11/26,1,0,0
+CMP-1492,Concert Flash Sale,CUST-1081,Email,10/17/26,0,0,0
+CMP-1493,Holiday Spectacular Discount,CUST-1032,Email,12/1/26,0,0,0
+CMP-1494,Holiday Spectacular Discount,CUST-1006,Email,10/19/26,1,1,0
+CMP-1495,Holiday Spectacular Discount,CUST-1076,Email,11/21/26,0,0,0
+CMP-1496,Rock Legends Tour Promo,CUST-1003,Email,12/31/26,0,0,0
+CMP-1497,Country Showcase Presale,CUST-1006,SMS,11/7/26,1,1,0
+CMP-1498,Firebirds Home Opener Promo,CUST-1033,SMS,10/21/26,0,0,0
+CMP-1499,Latin Music VIP Access,CUST-1050,Email,11/27/26,1,1,0
+CMP-1500,Firebirds Home Opener Promo,CUST-1008,SMS,11/9/26,0,0,0
+CMP-1501,Latin Music VIP Access,CUST-1056,SMS,11/12/26,0,0,0
+CMP-1502,Holiday Spectacular Discount,CUST-1086,App Push,11/26/26,0,0,0
+CMP-1503,Rock Legends Tour Promo,CUST-1007,Email,2/19/27,1,0,0
+CMP-1504,Country Showcase Presale,CUST-1053,App Push,2/11/27,0,0,0
+CMP-1505,Firebirds Home Opener Promo,CUST-1014,Email,12/28/26,1,1,1
+CMP-1506,Concert Flash Sale,CUST-1022,Email,1/6/27,0,0,0
+CMP-1507,Firebirds Home Opener Promo,CUST-1003,Email,12/19/26,0,0,0
+CMP-1508,Lakers Ticket Alert,CUST-1020,App Push,12/26/26,0,0,0
+CMP-1509,Concert Flash Sale,CUST-1019,App Push,1/12/27,1,1,1
+CMP-1510,Firebirds Home Opener Promo,CUST-1023,SMS,2/13/27,0,0,0
+CMP-1511,Rock Legends Tour Promo,CUST-1056,SMS,1/22/27,0,0,0
+CMP-1512,Holiday Spectacular Discount,CUST-1032,App Push,10/30/26,1,1,0
+CMP-1513,Holiday Spectacular Discount,CUST-1096,App Push,1/28/27,0,0,0
+CMP-1514,Holiday Spectacular Discount,CUST-1100,App Push,12/23/26,1,0,0
+CMP-1515,Firebirds Home Opener Promo,CUST-1025,Email,10/12/26,0,0,0
+CMP-1516,Concert Flash Sale,CUST-1065,SMS,2/14/27,1,0,0
+CMP-1517,Country Showcase Presale,CUST-1026,SMS,12/27/26,1,0,0
+CMP-1518,Concert Flash Sale,CUST-1014,SMS,10/25/26,0,0,0
+CMP-1519,Concert Flash Sale,CUST-1060,SMS,10/7/26,0,0,0
+CMP-1520,Holiday Spectacular Discount,CUST-1061,App Push,1/29/27,0,0,0
+CMP-1521,Rock Legends Tour Promo,CUST-1064,SMS,10/16/26,1,0,0
+CMP-1522,Firebirds Home Opener Promo,CUST-1043,SMS,10/27/26,1,1,1
+CMP-1523,Concert Flash Sale,CUST-1023,SMS,2/9/27,1,0,0
+CMP-1524,Latin Music VIP Access,CUST-1056,Email,12/2/26,1,0,0
+CMP-1525,Rock Legends Tour Promo,CUST-1100,SMS,2/24/27,0,0,0
+CMP-1526,Latin Music VIP Access,CUST-1054,SMS,10/11/26,0,0,0
+CMP-1527,Lakers Ticket Alert,CUST-1086,Email,10/27/26,1,1,1
+CMP-1528,Latin Music VIP Access,CUST-1024,Email,2/16/27,1,1,0
+CMP-1529,Holiday Spectacular Discount,CUST-1100,Email,12/11/26,1,0,0
+CMP-1530,Firebirds Home Opener Promo,CUST-1037,Email,10/25/26,1,0,0
+CMP-1531,Latin Music VIP Access,CUST-1063,SMS,1/5/27,0,0,0
+CMP-1532,Concert Flash Sale,CUST-1057,App Push,10/5/26,1,0,0
+CMP-1533,Latin Music VIP Access,CUST-1010,SMS,2/20/27,1,0,0
+CMP-1534,Holiday Spectacular Discount,CUST-1015,Email,2/1/27,0,0,0
+CMP-1535,Concert Flash Sale,CUST-1014,Email,10/24/26,1,0,0
+CMP-1536,Latin Music VIP Access,CUST-1052,Email,2/24/27,0,0,0
+CMP-1537,Lakers Ticket Alert,CUST-1077,Email,2/27/27,0,0,0
+CMP-1538,Concert Flash Sale,CUST-1009,App Push,10/29/26,0,0,0
+CMP-1539,Latin Music VIP Access,CUST-1076,Email,1/21/27,0,0,0
+CMP-1540,Holiday Spectacular Discount,CUST-1007,Email,11/9/26,0,0,0
+CMP-1541,Country Showcase Presale,CUST-1007,SMS,12/9/26,1,1,0
+CMP-1542,Lakers Ticket Alert,CUST-1071,SMS,12/27/26,1,0,0
+CMP-1543,Lakers Ticket Alert,CUST-1066,SMS,10/23/26,1,1,0
+CMP-1544,Country Showcase Presale,CUST-1023,SMS,1/26/27,1,1,0
+CMP-1545,Concert Flash Sale,CUST-1028,SMS,11/26/26,0,0,0
+CMP-1546,Firebirds Home Opener Promo,CUST-1035,SMS,10/3/26,0,0,0
+CMP-1547,Lakers Ticket Alert,CUST-1076,Email,12/31/26,1,1,0
+CMP-1548,Firebirds Home Opener Promo,CUST-1046,SMS,11/22/26,0,0,0
+CMP-1549,Rock Legends Tour Promo,CUST-1059,Email,2/20/27,0,0,0
+CMP-1550,Country Showcase Presale,CUST-1001,SMS,2/13/27,1,0,0

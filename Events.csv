@@ -1,0 +1,26 @@
+EventID,EventName,EventCategory,EventDate,Capacity,AverageTicketPrice,Category
+EVT-501,Coachella Valley Firebirds vs. Henderson Silver Knights,Hockey,11/12/26,"11,000",$48.00,Hockey
+EVT-502,Coachella Valley Lakers vs. South Bay Lakers,Basketball,11/15/26,"11,000",$35.00,Basketball
+EVT-503,Country Music Showcase: Headliner Tour,Concert,11/15/26,"11,000",$115.00,Concert
+EVT-504,Coachella Valley Firebirds vs. Bakersfield Condors,Hockey,11/22/26,"11,000",$52.00,Hockey
+EVT-505,Rock Legends World Tour,Concert,11/28/26,"11,000",$140.00,Concert
+EVT-506,Coachella Valley Lakers vs. Santa Cruz  Warriors,Basketball,12/3/26,"11,000",$45.00,Basketball
+EVT-507,Family Holiday Ice Show Spectacular,Family/Special,12/10/26,"11,000",$45.00,Family/Special
+EVT-508,Pop Superstar Arena Tour,Concert,12/2/26,"11,000",$150.00,Concert
+EVT-509,Coachella Valley Lakers vs. Stockton Kings,Basketball,12/5/26,"11,000",$35.00,Basketball
+EVT-510,Family Holiday Ice Show Spectacular,Family/Special,12/10/26,"11,000",$45.00,Family/Special
+EVT-511,Coachella Valley Firebirds vs. San Diego Gulls,Hockey,12/13/26,"11,000",$50.00,Hockey
+EVT-512,Latin Music Icon World Tour,Concert,12/18/26,"11,000",$135.00,Concert
+EVT-513,Coachella Valley Lakers vs. Salt Lake City Stars,Basketball,12/22/26,"11,000",$35.00,Basketball
+EVT-514,Holiday Comedy Night & All-Stars,Comedy/Special,12/28/26,"11,000",$65.00,Comedy/Special
+EVT-515,Coachella Valley Firebirds vs. Colorado Eagles,Hockey,1/8/27,"11,000",$48.00,Hockey
+EVT-516,Coachella Valley Lakers vs. Rip City Remix,Basketball,1/12/27,"11,000",$38.00,Basketball
+EVT-517,Indie Rock & Electronic Festival Night,Concert,1/16/27,"11,000",$95.00,Concert
+EVT-518,Coachella Valley Firebirds vs. San Jose Barracuda,Hockey,1/22/27,"11,000",$48.00,Hockey
+EVT-519,Coachella Valley Lakers vs. Oklahoma City Blue,Basketball,1/27/27,"11,000",$35.00,Basketball
+EVT-520,Desert Country Jam,Concert,2/4/27,"11,000",$110.00,Concert
+EVT-521,Coachella Valley Firebirds vs. Abbotsford Canucks,Hockey,2/10/27,"11,000",$52.00,Hockey
+EVT-522,Coachella Valley Lakers vs. Austin Spurs,Basketball,2/15/27,"11,000",$38.00,Basketball
+EVT-523,Classic Rock Revival Tour,Concert,2/20/27,"11,000",$125.00,Concert
+EVT-524,Coachella Valley Firebirds vs. Calgary Wranglers,Hockey,2/26/27,"11,000",$50.00,Hockey
+EVT-525,Coachella Valley Lakers vs. San Diego Clippers,Basketball,3/3/27,"11,000",$40.00,Basketball

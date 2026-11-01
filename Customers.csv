@@ -1,0 +1,109 @@
+CustomerID,FirstName,LastName,Email,City,ZipCode,JoinDate,Preferred Channel
+CUST-1001,Ryan,Vinson,ryan.fan@email.com,Palm springs,92262,5/15/24,Email
+CUST-1002,Sarah,Miller,smiller@email.com,PalmDesert,92260,6/15/24,SMS
+CUST-1003,Marcus,Johnson,mjohsoon@email.com,Indio,92201,8/10/24,App Push
+CUST-1004,Elena,Rodirguez,elena.r@email.com,La quinta,92253,11/1/24,Email
+CUST-1005,David,Chen,dchen@email.com,Rancho Mirage,92270,1/12/25,SMS
+CUST-1006,Jessica,taylor,jtaylor@email.com,Coachella,92236,3/5/25,Email
+CUST-1007,Brandon,Smith,bsmith@email.com,Palm springs,92264,4/18/25,App Push
+CUST -1008,Clhoe,Davis,cdavis@email.com,Palm Desert,92211,6/30/25,Email
+CUST-1001,Ryan,Vinson,ryan.fan@email.com,Palm Springs,92262,5/15/24,Email
+CUST-1002,Sarah,Miller,smiller@email.com,Palm Desert,92260,6/20/24,SMS
+CUST-1003,Marcus,Johnson,mjohnson@email.com,Indio,92201,8/10/24,App Push
+CUST-1004,Elena,Rodriguez,elena.r@email.com,La Quinta,92253,11/1/24,Email
+CUST-1005,David,Chen,dchen@email.com,Rancho Mirage,92270,1/12/25,SMS
+CUST-1006,Jessica,Taylor,jtaylor@email.com,Coachella,92236,3/5/25,Email
+CUST-1007,Brandon,Smith,bsmith@email.com,Palm Springs,92264,4/18/25,App Push
+CUST-1008,Chloe,Davis,cdavis@email.com,Palm Desert,92211,6/30/25,Email
+CUST-1009,Alex,Wilson,awilson@email.com,Indio,92203,7/10/25,SMS
+CUST-1010,Liam,Wilson,lwilson@email.com,Palm Springs,92262,5/18/24,Email
+CUST-1011,Sophia,Martinez,smartinez@email.com,Palm Desert,92260,5/22/24,SMS
+CUST-1012,Noah,Anderson,nanderson@email.com,Indio,92201,6/1/24,App Push
+CUST-1013,Emma,Thomas,ethomas@email.com,La Quinta,92253,6/5/24,Email
+CUST-1014,Oliver,Jackson,ojackson@email.com,Rancho Mirage,92270,6/12/24,SMS
+CUST-1015,Ava,White,awhite@email.com,Coachella,92236,6/19/24,Email
+CUST-1016,Elijah,Harris,eharris@email.com,Palm Springs,92264,6/25/24,App Push
+CUST-1017,Isabella,Martin,imartin@email.com,Palm Desert,92211,7/2/24,Email
+CUST-1018,Lucas,Lee,llee@email.com,Indio,92203,7/8/24,SMS
+CUST-1019,Mia,Perez,mperez@email.com,La Quinta,92253,7/15/24,Email
+CUST-1020,Mason,Thompson,mthompson@email.com,Rancho Mirage,92270,7/20/24,App Push
+CUST-1021,Harper,Garcia,hgarcia@email.com,Palm Springs,92262,7/28/24,Email
+CUST-1022,Logan,Martinez,lmartinez@email.com,Palm Desert,92260,8/3/24,SMS
+CUST-1023,Evelyn,Robinson,erobinson@email.com,Indio,92201,8/10/24,Email
+CUST-1024,Ethan,Clark,eclark@email.com,Coachella,92236,8/14/24,App Push
+CUST-1025,Abigail,Rodriguez,arodriguez@email.com,La Quinta,92253,8/22/24,Email
+CUST-1026,Jacob,Lewis,jlewis@email.com,Palm Springs,92264,8/30/24,SMS
+CUST-1027,Emily,Walker,ewalker@email.com,Palm Desert,92211,9/4/24,Email
+CUST-1028,Michael,Hall,mhall@email.com,Indio,92203,9/11/24,App Push
+CUST-1029,Elizabeth,Allen,eallen@email.com,Rancho Mirage,92270,9/18/24,Email
+CUST-1030,Alexander,Young,ayoung@email.com,Coachella,92236,9/24/24,SMS
+CUST-1031,Sofia,Hernandez,shernandez@email.com,Palm Springs,92262,10/2/24,Email
+CUST-1032,James,King,jking@email.com,Palm Desert,92260,10/9/24,App Push
+CUST-1033,Aurelia,Wright,awright@email.com,Indio,92201,10/15/24,Email
+CUST-1034,Benjamin,Lopez,blopez@email.com,La Quinta,92253,10/21/24,SMS
+CUST-1035,Ella,Hill,ehill@email.com,Rancho Mirage,92270,10/28/24,Email
+CUST-1036,Daniel,Scott,dscott@email.com,Coachella,92236,11/5/24,App Push
+CUST-1037,Scarlett,Green,sgreen@email.com,Palm Springs,92264,11/12/24,Email
+CUST-1038,Matthew,Adams,madams@email.com,Palm Desert,92211,11/19/24,SMS
+CUST-1039,Victoria,Baker,vbaker@email.com,Indio,92203,11/25/24,Email
+CUST-1040,Jackson,Gonzalez,jgonzalez@email.com,La Quinta,92253,12/1/24,App Push
+CUST-1041,Grace,Nelson,gnelson@email.com,Rancho Mirage,92270,12/8/24,Email
+CUST-1042,Sebastian,Carter,scarter@email.com,Coachella,92236,12/14/24,SMS
+CUST-1043,Chloe,Mitchell,cmitchell@email.com,Palm Springs,92262,12/20/24,Email
+CUST-1044,Jack,Perez,jperez@email.com,Palm Desert,92260,12/28/24,App Push
+CUST-1045,Penelope,Roberts,proberts@email.com,Indio,92201,1/4/25,Email
+CUST-1046,Aiden,Turner,aturner@email.com,La Quinta,92253,1/10/25,SMS
+CUST-1047,Layla,Phillips,lphillips@email.com,Rancho Mirage,92270,1/17/25,Email
+CUST-1048,Owen,Campbell,ocampbell@email.com,Coachella,92236,1/23/25,App Push
+CUST-1049,Zoey,Parker,zparker@email.com,Palm Springs,92264,1/30/25,Email
+CUST-1050,Samuel,Evans,sevans@email.com,Palm Desert,92211,2/6/25,SMS
+CUST-1051,Nora,Edwards,nedwards@email.com,Indio,92203,2/12/25,Email
+CUST-1052,Joseph,Collins,jcollins@email.com,La Quinta,92253,2/19/25,App Push
+CUST-1053,Lily,Stewart,lstewart@email.com,Rancho Mirage,92270,2/25/25,Email
+CUST-1054,John,Sanchez,jsanchez@email.com,Coachella,92236,3/3/25,SMS
+CUST-1055,Hannah,Morris,hmorris@email.com,Palm Springs,92262,3/10/25,Email
+CUST-1056,David,Rogers,drogers@email.com,Palm Desert,92260,3/16/25,App Push
+CUST-1057,Addison,Reed,areed@email.com,Indio,92201,3/22/25,Email
+CUST-1058,Wyatt,Cook,wcook@email.com,La Quinta,92253,3/29/25,SMS
+CUST-1059,Aubrey,Morgan,amorgan@email.com,Rancho Mirage,92270,4/5/25,Email
+CUST-1060,Luke,Bell,lbell@email.com,Coachella,92236,4/12/25,App Push
+CUST-1061,Ellie,Murphy,emurphy@email.com,Palm Springs,92264,4/19/25,Email
+CUST-1062,Julian,Bailey,jbailey@email.com,Palm Desert,92211,4/26/25,SMS
+CUST-1063,Stella,Rivera,srivera@email.com,Indio,92203,5/2/25,Email
+CUST-1064,Gabriel,Cooper,gcooper@email.com,La Quinta,92253,5/9/25,App Push
+CUST-1065,Natalie,Richardson,nrichardson@email.com,Rancho Mirage,92270,5/16/25,Email
+CUST-1066,Grayson,Cox,gcox@email.com,Coachella,92236,5/22/25,SMS
+CUST-1067,Zoe,Howard,zhoward@email.com,Palm Springs,92262,5/29/25,Email
+CUST-1068,Leo,Ward,lward@email.com,Palm Desert,92260,6/5/25,App Push
+CUST-1069,Leah,Torres,ltorres@email.com,Indio,92201,6/11/25,Email
+CUST-1070,Lincoln,Peterson,lpeterson@email.com,La Quinta,92253,6/18/25,SMS
+CUST-1071,Hazel,Gray,hgray@email.com,Rancho Mirage,92270,6/24/25,Email
+CUST-1072,Mateo,Ramirez,mramirez@email.com,Coachella,92236,7/1/25,App Push
+CUST-1073,Violet,James,vjames@email.com,Palm Springs,92264,7/8/25,Email
+CUST-1074,Ryan,Watson,rwatson@email.com,Palm Desert,92211,7/15/25,SMS
+CUST-1075,Aurora,Brooks,abrooks@email.com,Indio,92203,7/21/25,Email
+CUST-1076,Nathan,Kelly,nkelly@email.com,La Quinta,92253,7/28/25,App Push
+CUST-1077,Savannah,Sanders,ssanders@email.com,Rancho Mirage,92270,8/4/25,Email
+CUST-1078,Aaron,Price,aprice@email.com,Coachella,92236,8/11/25,SMS
+CUST-1079,Audrey,Bennett,abennett@email.com,Palm Springs,92262,8/18/25,Email
+CUST-1080,Christian,Wood,cwood@email.com,Palm Desert,92260,8/25/25,App Push
+CUST-1081,Brooklyn,Barnes,bbarnes@email.com,Indio,92201,9/1/25,Email
+CUST-1082,Landon,Ross,lross@email.com,La Quinta,92253,9/8/25,SMS
+CUST-1083,Bella,Henderson,bhenderson@email.com,Rancho Mirage,92270,9/14/25,Email
+CUST-1084,Jonathan,Coleman,jcoleman@email.com,Coachella,92236,9/21/25,App Push
+CUST-1085,Claire,Jenkins,cjenkins@email.com,Palm Springs,92264,9/28/25,Email
+CUST-1086,Nolan,Perry,nperry@email.com,Palm Desert,92211,10/4/25,SMS
+CUST-1087,Skylar,Powell,spowell@email.com,Indio,92203,10/11/25,Email
+CUST-1088,Hunter,Long,hlong@email.com,La Quinta,92253,10/18/25,App Push
+CUST-1089,Lucy,Patterson,lpatterson@email.com,Rancho Mirage,92270,10/25/25,Email
+CUST-1090,Jeremiah,Hughes,jhughes@email.com,Coachella,92236,11/1/25,SMS
+CUST-1091,Paisley,Flores,pflores@email.com,Palm Springs,92262,11/8/25,Email
+CUST-1092,Easton,Washington,ewashington@email.com,Palm Desert,92260,11/15/25,App Push
+CUST-1093,Maya,Butler,mbutler@email.com,Indio,92201,11/21/25,Email
+CUST-1094,Thomas,Simmons,tsimmons@email.com,La Quinta,92253,11/28/25,SMS
+CUST-1095,Caroline,Foster,cfoster@email.com,Rancho Mirage,92270,12/5/25,Email
+CUST-1096,Dominic,Gonzales,dgonzales@email.com,Coachella,92236,12/12/25,App Push
+CUST-1097,Genesis,Bryant,gbryant@email.com,Palm Springs,92264,12/18/25,Email
+CUST-1098,Carlos,Alexander,calexander@email.com,Palm Desert,92211,12/25/25,SMS
+CUST-1099,Aaliyah,Russell,arussell@email.com,Indio,92203,1/2/26,Email
+CUST-1100,Ian,Griffin,igriffin@email.com,La Quinta,92253,1/9/26,App Push
